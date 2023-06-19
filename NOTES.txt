@@ -1,0 +1,25 @@
+1.  Change html tile
+2.  change page2 to something else
+            renamed file from page2.html to contact.html
+            changed Menu item from "Page2" to "Contact" throughout page
+3.  Im mike contrast is bad
+4.  I create websites and design graphics ... change  from img to html code
+5.  "Ready for a great website..." - contrast is bad
+6.  Many lists in footer
+7.  add alt to 
+        <img src="img/atlanta%20web%20design%20logo.png"  height="40" />
+8.  renamed images for better readiability 
+"Changing the image filename from 'title.png' to 'go-mikes-designs.png' provides more context about the image's content to both users and search engines. The new filename accurately reflects that the image is the logo for 'Go Mike's Designs'. This makes it easier for search engines to understand the image's relevance to the site, potentially improving SEO. It also provides a better user experience, as people can get a sense of what the image might be even if they can't see it (for instance, if the image fails to load or if they're using a screen reader).
+9. change lang to us-en
+10. instead of using image, replace with a p tag 
+	<img alt="web agency, web design, logo design, atlanta agency, mike" src="img/title.png" />
+
+11. instead of using image, replace with html code
+        <img alt="web agency, web design, logo design " src="img/quote.png">
+
+12.  Changed footer li color for contrast
+13.  commented out black hack technique
+        <div class="keywords" style="color:#cccccc;font-size:1px;">web agency atlanta, web strategy, web design, logo, website, web, internet, logo design</div>
+
+lighthosue fixes
+7. removed ununsed JS libraries
