@@ -23,3 +23,8 @@
 
 lighthosue fixes
 7. removed ununsed JS libraries
+
+
+------
+
+remove the footer stuff.
